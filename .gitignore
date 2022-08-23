@@ -1,0 +1,8 @@
+#pycache
+*__pycache__
+
+#images
+*.jpg
+
+.python-version
+

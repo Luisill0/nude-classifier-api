@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+onnxruntime
+pillow
+pydload
+python-dotenv
+python-multipart
